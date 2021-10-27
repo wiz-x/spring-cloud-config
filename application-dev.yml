@@ -1,3 +1,2 @@
 config:
   info: application-dev.yml version=4.0
-eureka.port: 80
